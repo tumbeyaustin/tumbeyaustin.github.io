@@ -21,5 +21,6 @@ I am currently building skills in:
 
 
 
-- [Projects](projects.md)
-- [Future Work](futu
+- [Projects](projects.html)
+- [Future Work](future-work.html)
+
