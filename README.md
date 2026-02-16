@@ -1,2 +1,12 @@
-# tumbeyaustin.github.io
-GitHub Website w2
+ Austin Tumbey
+
+ 
+Hello! My name is Austin Tumbeya. I am a Computer Science student focused on developing strong programming and web development skills.
+
+This website was created using GitHub Pages to practice GitHub skills and to build a public portfolio that showcases my work to employers, professors, and anyone interested in my programming experience.
+
+I am currently building skills in:
+- HTML & CSS
+- JavaScript
+- SQL and Database Design
+- Git & GitHub
