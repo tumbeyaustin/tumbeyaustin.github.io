@@ -20,7 +20,7 @@ I am currently building skills in:
 
 
 
-
+- [CS150 HW0](cs150-hw0/)
 - [Projects](projects.html)
 - [Future Work](future-work.html)
 
