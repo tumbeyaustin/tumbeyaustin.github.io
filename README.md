@@ -1,3 +1,5 @@
+#Austin Tumbey
+
 
 Hello, my name is Austin Tumbey. I am a second-year student at the University of Wisconsin–Eau Claire majoring in Computer Science.
 
@@ -13,3 +15,11 @@ I am currently building skills in:
 - JavaScript
 - SQL and Database Design
 - Git & GitHub
+
+
+
+
+
+
+- [Projects](projects.md)
+- [Future Work](future-work.md)
